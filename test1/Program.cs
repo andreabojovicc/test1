@@ -7,6 +7,7 @@ namespace test1
         static void Main(string[] args)
         {
             Console.WriteLine("prvi komit ");
+            Console.WriteLine("drugi");
         }
     }
 }
